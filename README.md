@@ -9,6 +9,6 @@ Cloud engineer from Wrocław, Poland, currently at [Atman](https://www.atman.pl)
 
 ## Projects
 
-- [**garmin-battery-drain**](https://github.com/JanKazWasilewski/garmin-battery-drain): a Garmin Connect IQ glance and app that tracks battery drain per cycle, day and month, separates idle from activity drain and compares it with a year ago. fēnix 7X Pro, fēnix 8, fēnix E; English and Polish. Built in collaboration with Claude Code.
+- [**garmin-battery-drain**](https://github.com/JanKazWasilewski/garmin-battery-drain): a Garmin Connect IQ glance and app that tracks battery drain per cycle, day and month, separates idle from activity drain and compares it with a year ago. fēnix 7X Pro, fēnix 8, fēnix E; English and Polish. Built in collaboration with Claude Code. [Connect IQ Store](https://apps.garmin.com/apps/02d013d0-6ef7-41ec-b4bb-7c518cd91977)
 
 [LinkedIn](https://www.linkedin.com/in/jan-wasilewski-47524619/)
